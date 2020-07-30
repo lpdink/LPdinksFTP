@@ -1,0 +1,10 @@
+D:\appProjects\lpdinksFTP\lpdinksFTP\bin\Debug\lpdinksFTP.exe.config
+D:\appProjects\lpdinksFTP\lpdinksFTP\bin\Debug\lpdinksFTP.exe
+D:\appProjects\lpdinksFTP\lpdinksFTP\bin\Debug\lpdinksFTP.pdb
+D:\appProjects\lpdinksFTP\lpdinksFTP\obj\Debug\lpdinksFTP.csprojAssemblyReference.cache
+D:\appProjects\lpdinksFTP\lpdinksFTP\obj\Debug\lpdinksFTP.mainWindow.resources
+D:\appProjects\lpdinksFTP\lpdinksFTP\obj\Debug\lpdinksFTP.Properties.Resources.resources
+D:\appProjects\lpdinksFTP\lpdinksFTP\obj\Debug\lpdinksFTP.csproj.GenerateResource.cache
+D:\appProjects\lpdinksFTP\lpdinksFTP\obj\Debug\lpdinksFTP.csproj.CoreCompileInputs.cache
+D:\appProjects\lpdinksFTP\lpdinksFTP\obj\Debug\lpdinksFTP.exe
+D:\appProjects\lpdinksFTP\lpdinksFTP\obj\Debug\lpdinksFTP.pdb
